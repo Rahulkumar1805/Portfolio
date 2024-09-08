@@ -1,0 +1,75 @@
+[
+  {
+    "name": "PathTracker Android",
+    "desc": "Real time path tracking and stastics app. Built using Kotlin, XML, RoomDB, MVVM, Android Services, Google Map",
+    "image": "pathtracker",
+    "category": "android",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1ngSouK5QQAZCN8zB7ixJc-PWfwt0alxg?usp=sharing",
+      "code": "https://github.com/Rahulkumar1805/Path-Tracker"
+    }
+  },
+  
+  {
+    "name": "Notes App Android",
+    "desc": "Native android app built using Kotlin, XML, Firebase, Room Database, MVVM. Simple notes app with login- signup features.",
+    "image": "notes",
+    "category": "android",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Weather App Android",
+    "desc": "Native android app built using Kotlin, XML and Retrofit. Provides weather forecast.",
+    "image": "weather",
+    "category": "android",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1JFMxaY0CSnfsNsQQIB5DF4B_j9x44Amx?usp=sharing",
+      "code": "https://github.com/Rahulkumar1805/Weather-Application"
+    }
+  },
+  {
+    "name": "PHP Shayari App",
+    "desc": "Shayari App with frontend using native android in Kotlin and back-end using PHP, MySQL.",
+    "image": "shayari",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  
+  {
+    "name": "Video Streaming WebSite",
+    "desc": "Frontend based Video Streaming / calling website with Agora-RTC API.",
+    "image": "streaming",
+    "category": "basicweb",
+    "links": {
+      "view": "https://rahulkumar1805.github.io/clubExcel-streaming/",
+      "code": "https://github.com/Rahulkumar1805/Club_excel-chatRoom.github.io"
+    }
+  },
+  
+  {
+    "name": "N-Queens",
+    "desc": "An interactive app where users place the N Queens on an NxN chessboard, using data structures concepts like backtracking algorithms to validate their solutions..",
+    "image": "nqueen",
+    "category": "android",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1UVC-V9d-Ho87FN7vRvtk-ilDLSXXwCvt?usp=sharing",
+      "code": "https://github.com/Rahulkumar1805/NQueen"
+    }
+  },
+  {
+    "name": "Va-Fi",
+    "desc": "",
+    "image": "",
+    "category": "android",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  }
+]
