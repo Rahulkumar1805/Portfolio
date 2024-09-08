@@ -2,7 +2,7 @@
   {
     "name": "PathTracker Android",
     "desc": "Real time path tracking and stastics app. Built using Kotlin, XML, RoomDB, MVVM, Android Services, Google Map",
-    "image": "pathtracker.png",
+    "image": "pathtracker",
     "category": "android",
     "links": {
       "view": "https://drive.google.com/drive/folders/1ngSouK5QQAZCN8zB7ixJc-PWfwt0alxg?usp=sharing",
@@ -13,7 +13,7 @@
   {
     "name": "Notes App Android",
     "desc": "Native android app built using Kotlin, XML, Firebase, Room Database, MVVM. Simple notes app with login- signup features.",
-    "image": "notes.png",
+    "image": "notes",
     "category": "android",
     "links": {
       "view": "",
@@ -23,7 +23,7 @@
   {
     "name": "Weather App Android",
     "desc": "Native android app built using Kotlin, XML and Retrofit. Provides weather forecast.",
-    "image": "weather.png",
+    "image": "weather",
     "category": "android",
     "links": {
       "view": "https://drive.google.com/drive/folders/1JFMxaY0CSnfsNsQQIB5DF4B_j9x44Amx?usp=sharing",
@@ -33,7 +33,7 @@
   {
     "name": "PHP Shayari App",
     "desc": "Shayari App with frontend using native android in Kotlin and back-end using PHP, MySQL.",
-    "image": "shayari.png",
+    "image": "shayari",
     "category": "mern",
     "links": {
       "view": "",
@@ -44,7 +44,7 @@
   {
     "name": "Video Streaming WebSite",
     "desc": "Frontend based Video Streaming / calling website with Agora-RTC API.",
-    "image": "streaming.png",
+    "image": "streaming",
     "category": "basicweb",
     "links": {
       "view": "https://rahulkumar1805.github.io/clubExcel-streaming/",
@@ -55,7 +55,7 @@
   {
     "name": "N-Queens",
     "desc": "An interactive app where users place the N Queens on an NxN chessboard, using data structures concepts like backtracking algorithms to validate their solutions..",
-    "image": "nqueen.png",
+    "image": "nqueen",
     "category": "android",
     "links": {
       "view": "https://drive.google.com/drive/folders/1UVC-V9d-Ho87FN7vRvtk-ilDLSXXwCvt?usp=sharing",
