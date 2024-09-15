@@ -70,8 +70,16 @@ header {
   justify-content: space-between;
   padding: 1.7rem 10%;
   height: 6.5rem;
-  background-color: #fff;
-  box-shadow: 0 1px 4px rgba(146, 161, 176, 0.3);
+
+  background: rgba( 255, 255, 255, 0.2 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 20px );
+-webkit-backdrop-filter: blur( 20px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+
+  /* background-color: #fff;
+  box-shadow: 0 1px 4px rgba(146, 161, 176, 0.3); */
 }
 section {
   min-height: 100vh;
@@ -102,7 +110,7 @@ header .logo i {
 }
 
 header .logo:hover {
-  color: #4caf50;
+  color: rgb(6, 255, 6);
 }
 header .navbar ul {
   list-style: none;
@@ -123,7 +131,7 @@ header .navbar ul li a {
 }
 header .navbar ul li a.active,
 header .navbar ul li a:hover {
-  color: green;
+  color: rgb(6, 255, 6);
   border-bottom: 0.2rem solid green;
   padding: 0.5rem 0;
 }
@@ -133,7 +141,7 @@ header .navbar ul li a:hover {
 #menu {
   font-size: 3rem;
   cursor: pointer;
-  color:green;
+  color:rgb(0, 255, 0);
   display: none;
 }
 @media (max-width: 768px) {
@@ -173,7 +181,7 @@ header .navbar ul li a:hover {
     padding: 1rem;
     color: #fff;
     border-radius: 0.5rem;
-    border-bottom: 0.5rem solid green;
+    border-bottom: 0.5rem solid rgb(0, 255, 0);
   }
   .fa-times {
     transform: rotate(180deg);
@@ -230,13 +238,14 @@ header .navbar ul li a:hover {
 .home .image img {
     width: 70%;
     border-radius: 50%;
-    box-shadow: 0 2px 8px rgba(19, 238, 96, 0.3);
+    /* box-shadow: 0 2px 8px rgba(19, 238, 96, 0.3); */
     cursor: pointer;
     position: absolute;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
 
 .home .image img:hover {
-    box-shadow: 0 5px 15px rgba(19, 234, 23, 0.5);
+    box-shadow: 0 5px 17px rgba(19, 234, 23, 0.5);
 }
 
 .home .image .animated-border {
